@@ -1,6 +1,4 @@
 # Instruções para execução:
- 
-							--------------README AUTOMATO---------------
 
 PASSO 1:
 
